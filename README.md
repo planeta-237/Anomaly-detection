@@ -18,7 +18,7 @@
 ## Методы, используемые для поиска аномалий
 В исследовании использовались следующие методы, представленные на рисунке 3:
 <p align="center">
-  <img src="images/Anomaly detection.jpg">
+  <img src="images/Anomaly detection.png">
 </p>
 <p align="center">
   Рисунок 3 - Методы поиска аномалий
